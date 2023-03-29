@@ -1,7 +1,7 @@
 Hello World!
 
-🪐 I study Protestant & Islamic theology with a background in data science as in computer science
+🐣 I'm just a mini mini dev at the bottom of the AI hierachy of needs, at the top I product manage but also wip  
 
-🐣 At the bottom of the AI hierachy of needs I can do development work myself, at the top I rather product manage but also wip
+🪐 I have a background in data science as in computer science (= not everyone needs that :D) and study protestant & islamic theology in addition
 
-🖤 GitHub is a daunting place to be I mean it's the world's repo. I love to think of Jesus as master dev doing much with little so anyone relating, "fear not"!
+🖤 GitHub is kinda daunting I mean it's the world's repo. I love to think of Jesus as master dev working with little so anyone relating, "fear not"!
